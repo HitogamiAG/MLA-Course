@@ -1,0 +1,7 @@
+attrs
+pyyaml
+requests
+pandas
+numpy
+matplotlib
+scikit-learn

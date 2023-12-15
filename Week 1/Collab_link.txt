@@ -1,0 +1,3 @@
+Practice numpy&pandas: https://colab.research.google.com/drive/1e911Yekp3RfYSa-FGbQCALyTqh2e-YT1?usp=sharing
+Simple kNN from scratch: https://colab.research.google.com/drive/1oW6z-p6pdZKVEISj14NF5s-iYqLvDqQf?usp=sharing
+Practice kNN with scikit-learn: https://colab.research.google.com/drive/1RW3lNGiaubH8pjdihPAGibVKbiGT3n0a?usp=sharing
